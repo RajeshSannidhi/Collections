@@ -1,0 +1,6 @@
+F:\IntPrep\VarAndDynamic\VarAndDynamic\bin\Debug\VarAndDynamic.exe.config
+F:\IntPrep\VarAndDynamic\VarAndDynamic\bin\Debug\VarAndDynamic.exe
+F:\IntPrep\VarAndDynamic\VarAndDynamic\bin\Debug\VarAndDynamic.pdb
+F:\IntPrep\VarAndDynamic\VarAndDynamic\obj\Debug\VarAndDynamic.csprojResolveAssemblyReference.cache
+F:\IntPrep\VarAndDynamic\VarAndDynamic\obj\Debug\VarAndDynamic.exe
+F:\IntPrep\VarAndDynamic\VarAndDynamic\obj\Debug\VarAndDynamic.pdb

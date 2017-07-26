@@ -1,0 +1,6 @@
+F:\IntPrep\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+F:\IntPrep\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe
+F:\IntPrep\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.pdb
+F:\IntPrep\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csprojResolveAssemblyReference.cache
+F:\IntPrep\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.exe
+F:\IntPrep\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.pdb
